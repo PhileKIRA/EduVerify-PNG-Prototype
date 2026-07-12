@@ -9,6 +9,12 @@ institutions certify records with a cryptographic (SHA-256) integrity seal, an a
 approves institutions and reviews overseas qualifications, and employers verify a
 credential by QR token or by uploading a document plus an ID number.
 
+## Credits & Acknowledgment
+This prototype was prepared and demonstrated with the support of:  
+- Philemon Kira  
+- Vincent Mala  
+- Sharon Peter
+
 ## ⚠️ Prototype scope
 
 This is a **front-end-only prototype**. All data lives in the browser's memory while
