@@ -2,8 +2,7 @@
   "name": "eduverify-png",
   "private": true,
   "version": "0.1.0",
-  "homepage": "https://github.com/PhileKIRA/EduVerify-PNG-Prototype.giyhub.io/EduVerify-PNG-Prototype",
-  "type": "module",
+   "type": "module",
   "description": "EduVerify PNG — Papua New Guinea academic credential verification system (Phase 1 prototype)",
   "scripts": {
     "dev": "vite",
